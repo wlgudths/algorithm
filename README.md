@@ -1,1 +1,1 @@
-# algorithm
+# <https://wlgudths.github.io/>
