@@ -1,3 +1,6 @@
+import sys
+input = sys.stdin.readline
+
 stack = []
 for _ in range(int(input())):
     num = int(input())
